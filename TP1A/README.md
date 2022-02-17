@@ -1,11 +1,19 @@
 # Panorama de l'Anthropocène
 
-## Artiste: 
+Date de visite: 02/10/22
+
+### Artiste: 
 
 Oli Sorenson
 
-## Année de réalisation:
+## Description de l'oeuvre
 
-2020/2021
+Le Panorama de l'Anthropocène est une oeuvre qui à été réalisée en 2020/2021. À l'origine, chaque images était leurs propre oeuvre numérique, elles ont ensuite été transposées en plusieurs médias, dont l'animation qui était présente à la BIAN, où nous avons pu voir l'oeuvre.
+
+
+
+
+
+
 
 
