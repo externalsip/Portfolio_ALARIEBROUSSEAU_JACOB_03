@@ -24,6 +24,8 @@ Comme la composition n'a pas de son, on pouvait avoir l'expérience complète si
 
 <img alt="image_oeuvre" src="media/photo_oeuvre.jpg" style="width: 400px;">
 
+<img alt="image_oeuvre" src="media/photo_croquis.jpg" style="width: 600px;">
+
 ## Expérience personnelle
 
 Dès que je suis rentré dans la biennale, cette oeuvre m'a sauté aux yeux avec ses couleurs vibrantes, et lorsque je me suis approché j'ai vu les transitions. Je trouvais l'oeuvre intéressante et je me suis arrêté un bon moment pour regarder. Puis j'ai décidé d'en faire le sujet de mon analyse, comme dit plus haut, ce qui m'a vraiment intéressé étais les transitions très fluide entre les tableaux. Mais la simplicité de ceux-ci était également intéressantes, certaines étant tellement simplifiées qu'on aurait dit de l'art abstrait. De l'autre côté, quelque chose que j'ai moins aimé était que les couleurs vibrantes de l'oeuvre étaient belles de loin, mais rendu devant l'oeuvre, l'écran était beaucoup trop claire, faisant mal aux yeux.
