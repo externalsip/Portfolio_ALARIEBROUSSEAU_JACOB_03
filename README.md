@@ -1,3 +1,4 @@
 # Alarie-Brousseau Jacob portfolio
 
-Il va avoir une coupe de reviews ici
+Ce repository contient des analyses des oeuvres suivantes:
+1. 
