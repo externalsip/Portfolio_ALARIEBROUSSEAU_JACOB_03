@@ -1,12 +1,12 @@
 # Titre de l'oeuvre
 
-#### Nom de l'artiste
+### Nom de l'artiste
 
-#### Année de réalisation
+### Année de réalisation
+
+### Nom de l'exposition ou de l'événement
 
 
-
-#### Nom de l'exposition ou de l'événement
 
 ##### Date de visite
 
