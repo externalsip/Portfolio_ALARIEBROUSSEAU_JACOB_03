@@ -4,17 +4,19 @@
 
 #### Année de réalisation
 
+
+
 #### Nom de l'exposition ou de l'événement
 
-#### Date de visite
+##### Date de visite
 
-#### Lieu de mise en exposition
+##### Lieu de mise en exposition
 
-#### Description de l'oeuvre.
+Description de l'oeuvre.
+ 
+Mise en place de l'oeuvre
 
-#### Mise en place de l'oeuvre
+Liste d'éléments nécéssaire à l'exposition
 
-#### Liste d'éléments nécéssaire à l'exposition
-
-#### Expériences vécues
+Expériences vécues
 
