@@ -1,3 +1,3 @@
-# Configuration du Sensible
+# *Méchanisme de Déssaisissement*
 
-Ce dossier contiens l'analyse et les médias pour l'oeuvre Configuration du Sensible.
+Ce dossier contiens l'analyse et les médias pour l'oeuvre *Méchanisme de Déssaisissement*.
