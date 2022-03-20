@@ -1,1 +1,1 @@
-# Ce dossier contient la fiche technique de l'oeuvre *Panorama de l'anthropocène*
+# Ce dossier contient la fiche technique de l'oeuvre *Panorama de l'Anthropocène*
