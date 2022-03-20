@@ -2,6 +2,8 @@
 
 <img src="../media/carre_loin.jpg" style="width: 333px"> <img src="../media/triangle_loin.jpg" style="width: 333px"> <img src="../media/cercle_loin.jpg" style="width: 333px"> 
 
+<img src="../media/mechanisme_dessaisissement_info.jpg" style="width: 500px"> 
+
 ## Artistes
 
 Duo Béchard-Hudon
@@ -10,11 +12,11 @@ Duo Béchard-Hudon
 
 2019-2021
 
-<img src="../media/mechanisme_dessaisissement_info.jpg" style="width: 500px"> 
-
 ## Exposition
 
 *Configuration du sensible*
+
+<img src="../media/info_bechard_hudon.jpg" style="width:500px">
 
 ## Emplacement de l'oeuvre
 
@@ -44,6 +46,22 @@ Les sculptures mesurent: 244 x 244 x 76cm (carré et cercle) et 345 x 345 x 76cm
 
 L'oeuvre est composé de 3 sculptures cinétiques, chacunes étant composés de lumières LED ainsi que 2 formes géométriques chacunes: carrés, cercles et triangle, l'une des deux formes est noire. Ces formes vont exécuter une performance qui dure plus ou moins une heure lorsque quelqu'un s'approche d'elles. Cette performance consiste des deux formes présentes sur la structure ce déplacant des manière qui est visiblement aléatoire, mais qui est entièrement programmé. Les cables ainsi que les machines nécéssaire à la fonction des oeuvres sont laissés volontairement à la vue de tous.
 
-<img src="../media/cables.jpg" style="width:300px">
+<img src="../media/cables.jpg" style="width:400px"> <img src="../media/cercle_cote.jpg" style="width:400px">
+
+## Mise en place de l'oeuvre
+
+Voici un croquis de la mise en place de l'oeuvre:
+
+(Lorsqu'il sera produit)
+
+## Éléments nécéssaire à l'exposition
+
+1. Alimentation électrique
+2. Détecteurs de mouvement
+3. Mur suffisement grand pour accueillir les 3 sculptures
+
+## Expériences personnelles
+
+Lorsque je suis entré dans la salle, j'ai automatiquement été intrigué par ces amas de formes sur les murs, je n'ai d'ailleurs pas tout de suite remarqué qu'elles bougaient. J'étais intéressé par les ombres qui étaient crées par la composition, j'ai regardé chacunes des scupltures sous plusieurs angles afin de voir si les ombres allaient changer. Lorsque je j'ai réalisé que les formes bougaients, j'ai voulu voir comment est-ce que cela fonctionnait, plus je regardait ces scupltures, plus j'étais intéressé.
 
 
