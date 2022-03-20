@@ -1,5 +1,7 @@
 # Configuration du sensible
 
+<img src="../media/info_bechard_hudon.jpg" style="width: 500px">
+
 ## Artistes
 
 duo Béchard-Hudon
