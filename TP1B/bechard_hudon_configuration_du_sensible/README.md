@@ -11,3 +11,7 @@ duo Béchard-Hudon
 ## Emplacement de l'oeuvre
 
 Maison des Arts, Laval, Québec
+
+## Date de visite
+
+2022-03-17
