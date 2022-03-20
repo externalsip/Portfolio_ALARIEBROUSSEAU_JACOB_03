@@ -1,1 +1,1 @@
-### Ce dossier contient les médias de l'analyse de l'oeuvre *Configuration du Sensible*
+### Ce dossier contient les médias de l'analyse de l'oeuvre *Configuration du Sensible*.
