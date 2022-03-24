@@ -52,7 +52,7 @@ L'oeuvre est composé de 3 sculptures cinétiques, chacunes étant composés de 
 
 Voici un croquis de la mise en place de l'oeuvre:
 
-(Lorsqu'il sera produit)
+<img src="../media/croquis.png" style="width: 700px"> 
 
 ## Éléments nécéssaire à l'exposition
 
