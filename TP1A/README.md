@@ -1,1 +1,3 @@
-# Ce dossier contient la fiche technique de l'oeuvre *Panorama de l'Anthropocène* ainsi que ses médias.
+# *Panorama de l'Anthropocène*
+
+Ce dossier contient les médias ainsi que la fiche technique de l'oeuvre *Panorama de l'Anthropocène*.
