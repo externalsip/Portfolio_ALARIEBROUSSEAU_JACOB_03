@@ -56,9 +56,8 @@ Voici un croquis de la mise en place de l'oeuvre:
 
 ## Éléments nécéssaire à l'exposition
 
-1. Alimentation électrique
-2. Détecteurs de mouvement
-3. Mur suffisement grand pour accueillir les 3 sculptures
+1. Détecteurs de mouvement
+2. Mur suffisement grand pour accueillir les 3 sculptures
 
 ## Expériences personnelles
 
