@@ -46,7 +46,7 @@ L'ambiance générale de l'oeuvre est glauque et tente de rendre le visiteur inc
 
 Voici un croquis de la mise en place de l'oeuvre:
 
-(Lorsqu'il sera produit)
+<img src="../media/croquis.png" style="width:700px">
 
 ## Expériences personnelles
 
