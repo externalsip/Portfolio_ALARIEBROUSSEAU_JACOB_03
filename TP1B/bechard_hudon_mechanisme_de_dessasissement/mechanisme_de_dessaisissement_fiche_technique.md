@@ -63,4 +63,12 @@ Voici un croquis de la mise en place de l'oeuvre:
 
 Lorsque je suis entré dans la salle, j'ai automatiquement été intrigué par ces amas de formes sur les murs, je n'ai d'ailleurs pas tout de suite remarqué qu'elles bougaient. J'étais intéressé par les ombres qui étaient crées par la composition, j'ai regardé chacunes des scupltures sous plusieurs angles afin de voir si les ombres allaient changer. Lorsque je j'ai réalisé que les formes bougaients, j'ai voulu voir comment est-ce que cela fonctionnait, plus je regardait ces scupltures, plus j'étais intéressé.
 
+### Élément que je retiens
+
+Avoir un élément physique constament en mouvement pourrait être intéressant à faire dans une autre oeuvre. J'ai l'impression que si quelque chose bouge dans la réalité, ça a plus d'impact que sur un écran car les gens ne s'y attendent moins.
+
+### Élément que je ne retiens pas
+
+Dans mes oeuvres, je préférerai cacher les fils plutôt que de les laisser visible au public, car même si on demande au public de ne pas toucher, les chances que quelqu'un n'écoute pas ou ait un accident sont très hautes, et j'aimerai éviter de laisser quelque chose aussi fragile que des cables sans protections.
+
 
