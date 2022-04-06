@@ -1,3 +1,3 @@
 # *House of Skin*
 
-Ce dossier contient les médias ainsi que la fiche technique de l'oeuvre *House of Skin*.
+Ce dossier contient la présentation orale sur l'oeuvre *House of Skin*
