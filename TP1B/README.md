@@ -1,3 +1,3 @@
-# *Méchanisme de Déssaisissement*
+# *TP1B*
 
-Ce dossier contient les médias ainsi que la fiche technique de l'oeuvre *Méchanisme de Déssaisissement*.
+Ce dossier contient les fiches techniques des oeuvres *Méchanisme de Déssaisissement*,*House of Skin* et un compte-rendu de la conférence *Mouvance*.
