@@ -1,8 +1,10 @@
-Introduction:
+# Introduction:
 
 *House of Skin* est une oeuvre avec une ambiance sombre faisant usage de vielles télévisions catodiques et de modèles 3D de chaire en mauvaise état. Lorsque je suis rentré dans l'oeuvre, je ne savais pas réellement ce qui m'attendait car tout ce que j'avais vu sur le site était les modèles. Dans cette présentation, je vais parler des informations générales sur l'oeuvre, mes propres expériences, ainsi que des appréciations critiques.
 
 <img src="media/plan_complet.jpg" style="width: 700px">
+
+# Développement
 
 *House of Skin* est une oeuvre crée par Sabrina Ratté avec une bande son réalisée par Roger Tellier Craig, l'oeuvre était exposée à la Cinémathèque québécoise dans le cadre de la biennale.
 
