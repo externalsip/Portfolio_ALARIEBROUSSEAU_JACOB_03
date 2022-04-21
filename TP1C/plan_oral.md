@@ -27,3 +27,5 @@ https://vimeo.com/469265406
 # En conclusion
 
 *House of Skin* est une expérience très unique mais comme il n'y a pas d'interactivitée, elle est très courte. Elle reste tant bien intéressante à cause de la qualitée de sa présentation, sa vidéo unique et sa bande son à glacer le sang. Il y a quelques éléments avec lesquels je n'étais pas d'accord. Mais la composition elle-même donne quelque chose de très intéressant.
+
+<img src="media/photo_moi.jpg" style="width=600px">
