@@ -18,6 +18,10 @@ Sabrina Ratté et Roger Teller-Craig
 
 Cinémathèque Québécoise
 
+## Matériaux utilisés pour l'oeuvre
+
+2 projecteur, 5 télévisions catodiques, 5 fichiers vidéos pour télévisions, 1 fichier vidéo pour projecteur, 1 bande son, 4 hauts-parleurs pour bande son.
+
 ## Description
 
 *House of Skin* est une oeuvre mettant en scène une vidéo de 10 minutes dans laquelle on voit des modèles en 3 dimensions de ce qu'on peut assumer être de la chair humaine ayant vécu des choses inimaginables. Cette vidéo peut être décrite comme "gore". Elle est le coeur de l'oeuvre et est projetée sur le mur à l'aide de deux projecteurs
@@ -37,10 +41,8 @@ L'ambiance générale de l'oeuvre est glauque et tente de rendre le visiteur inc
 ## Éléments nécéssaires pour l'exposition
 
 1. 5 télévisions catodiques
-2. fichier vidéo principal
-3. fichiers vidéos des télévisions
-4. bande sonore
-5. 2 projecteurs
+2. 2 projecteurs
+3. 4 haut-parleurs
 
 ## Mise en place de l'oeuvre
 
