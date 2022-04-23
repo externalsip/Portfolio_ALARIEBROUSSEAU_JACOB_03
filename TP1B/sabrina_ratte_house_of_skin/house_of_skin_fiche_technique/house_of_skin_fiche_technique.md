@@ -54,3 +54,7 @@ Lorsque je suis entré dans la salle, la première chose qui m'a pris par surpri
 
 <img src="../media/cache_fil_1.jpg" style="width:400px">
 
+## Choses à retenir
+
+Avoir une ambiance qui illustre correctement ce que l'on veut que les visiteurs ressentent lorsqu'ils sont en train d'expérimenter mon oeuvre a un très bon effet. De plus, utiliser la noirceur afin de cacher certaines choses qu'on ne veut pas que les visiteurs ne voit.
+
