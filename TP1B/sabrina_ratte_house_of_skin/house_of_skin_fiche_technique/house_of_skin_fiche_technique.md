@@ -18,7 +18,7 @@ Sabrina Ratté et Roger Teller-Craig
 
 Cinémathèque Québécoise
 
-## Matériaux utilisés pour l'oeuvre
+## Éléments utilisés pour l'oeuvre
 
 2 projecteur, 5 télévisions catodiques, 5 fichiers vidéos pour télévisions, 1 fichier vidéo pour projecteur, 1 bande son, 4 hauts-parleurs pour bande son.
 
