@@ -92,4 +92,4 @@ Lorsque l'on tournait l'aiguille de l'horloge, ce n'était pas très doux, c'ét
 
 ### 6: *3 Minutes*
 
-La seule raison pourquoi *3 Minutes* est en sixième
+La seule raison pourquoi *3 Minutes* est en sixième position est que je ne l'ai pas expérimenté. La raison pour ceci est que je n'ai jamais eu la chance de le faire et ma clostrophobie. Comme j'ai mentionné dans ma première liste, comme je suis closrophobe je n'était pas vraiment entraîné par l'idée d'être dans un casier. La prémisse de l'oeuvre reste tout de même intéressante et j'ai entendu des personnes qui l'ont expérimentés qu'elle était bien faite.
