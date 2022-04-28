@@ -46,7 +46,8 @@ L'oeuvre est composée d'une salle dans laquelle des toiles sont posées sur 3 d
 ## Mise en place de l'oeuvre
 
 Voici un croquis de la mise en place de l'oeuvre:
-(Quand il sera produit)
+
+<img src="../media/croquis.png" style="width:700px">
 
 ## Expériences personnelles
 
