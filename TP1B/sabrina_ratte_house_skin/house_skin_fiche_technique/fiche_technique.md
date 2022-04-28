@@ -54,8 +54,6 @@ Voici un croquis de la mise en place de l'oeuvre:
 
 Lorsque je suis entré dans la salle, la première chose qui m'a pris par surprise était l'ambiance, la bande sonore à été parfaitement composée pour créer une ambiance dans laquelle le visiteur ce sens très incomfortable. La salle était très petite alors tout paraîssait imposant, par exemple, la vidéo principale faisait la longeur du mur du fond quasiment au complet. Cela donnait aussi à la bande sonore une sorte d'écho qui résonnait très bien. La salle était très sombre ce qui bien sûr rajoutait à l'ambiance. L'addition des télévisions couvrait le vide du centre de la salle, mais il n'y avais pas réelement de connections entre elles et la vidéo principale. Les caches-fils pour ceux-ci étaient d'ailleurs composés seulement de ruban adhésif. En résumé, l'expérience était bonne, surtout la trame sonore, mais il y a certaines parties de l'oeuvres qui auraient pu ne pas être présentes et l'expérience n'aurait pas réelement souffert.
 
-<img src="../media/tv_1" style="width:500px">
-
 https://vimeo.com/469265406
 
 <img src="../media/cache_fil_1.jpg" style="width:400px">
@@ -64,7 +62,7 @@ https://vimeo.com/469265406
 
 Avoir une ambiance qui illustre correctement ce que l'on veut que les visiteurs ressentent lorsqu'ils sont en train d'expérimenter mon oeuvre a un très bon effet. De plus, utiliser la noirceur afin de cacher certaines choses qu'on ne veut pas que les visiteurs ne voit.
 
-<img src="../media/photo_moi" style="width:500px">
+<img src="../media/photo_moi.jpg" style="width:500px">
 
 ## Choses à ne pas retenir
 
