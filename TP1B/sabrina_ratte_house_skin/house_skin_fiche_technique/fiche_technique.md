@@ -43,6 +43,7 @@ L'ambiance générale de l'oeuvre est glauque et tente de rendre le visiteur inc
 1. 5 télévisions catodiques
 2. 2 projecteurs
 3. 4 haut-parleurs
+4. Tout cables nécéssaires à l'installation des objets mentionnés ci-dessus
 
 ## Mise en place de l'oeuvre
 
