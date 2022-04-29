@@ -24,7 +24,7 @@ Cinémathèque Québécoise
 
 ## Description
 
-*House of Skin* est une oeuvre mettant en scène une vidéo de 10 minutes dans laquelle on voit des modèles en 3 dimensions de ce qu'on peut assumer être de la chair humaine ayant vécu des choses inimaginables. Cette vidéo peut être décrite comme "gore". Elle est le coeur de l'oeuvre et est projetée sur le mur à l'aide de deux projecteurs.
+*House of Skin* est une oeuvre mettant en scène une vidéo de 10 minutes dans laquelle on voit des modèles en 3 dimensions de ce qu'on peut assumer être de la chair humaine ayant vécu des choses inimaginables. Cette vidéo peut être décrite comme @gore". Elle est le coeur de l'oeuvre et est projetée sur le mur à l'aide de deux projecteurs.
 
 <img src="../media/projecteur.jpg" style="width: 400px">
 
