@@ -1,1 +1,1 @@
-Ce fichier contient une analyse de la conférence *Mouvance*.
+Ce fichier contient un compte-rendu de la conférence *Mouvance*.
