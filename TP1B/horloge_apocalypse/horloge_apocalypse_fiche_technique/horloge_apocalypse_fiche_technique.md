@@ -53,11 +53,11 @@ Voici un croquis de la mise en place de l'oeuvre:
 
 Lorsque j'ai bougé l'aiguille pour la première fois, j'ai tout de suite voulu savoir comment le méchanisme fonctionnait, j'était intrigué par le fonctionnement car l'interaction a eu un impact direct sur la l'environement autours de moi, j'ai bien apprécié les animations car elles étaient simple mais complètes. La transition entre les deux animations et bandes sons est instantanée lorsqu'on tourne l'aiguille, ce qui est très impressionant. Ensuite, le téléphone, je ne sais pas exactement comment ils ont reprogrammé le téléphone afin qu'il sonne et diffuse l'appel préenregistré, mais celui-ci s'est déclenché exactement au moment où il était voulu. J'ai bien aimé avoir l'expérience de cette oeuvre et l'équipe derrière était très ouverte à propos du fonctionnement. Lorsque j'ai demandé comment ça fonctionnait, un des membres m'a dit de le suivre et nous a montré exactement comment l'horloge fonctionnait.
 
-## Choses à retenir
+## Éléments que je retiens
 
 L'interactivitée présente dans *l'Horloge de l'Apocalypse* est son point le plus fort, car ce n'est pas l'oeuvre qui dicte à l'interacteur quoi faire, mais l'interacteur qui décide lui-même, éventuellement il faut absolument arriver à la dernière heure, mais il n'y a pas de temps limite pour le faire. Ce que je vais retenir, c'est donner le contrôle à l'intéracteur sur comment il va intéragir avec l'oeuvre.
 
-## Choses à ne pas retenir
+## Éléments que je ne retiens pas
 
 Lorsque l'on tournait l'aiguille de l'horloge, ce n'était pas très doux, c'était dur et à chaque fois j'avais peur de briser l'aiguille, dans mes oeuvres je vais essayer d'utiliser des éléments qui parraîssent plus robuste.
 
