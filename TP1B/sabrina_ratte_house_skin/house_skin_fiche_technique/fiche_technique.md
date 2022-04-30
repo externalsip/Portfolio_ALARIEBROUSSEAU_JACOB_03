@@ -57,12 +57,12 @@ https://vimeo.com/469265406
 
 <img src="../media/cache_fil_1.jpg" style="width:400px">
 
-## Choses à retenir
+## Éléments que je retiens
 
 Avoir une ambiance qui illustre correctement ce que l'on veut que les visiteurs ressentent lorsqu'ils sont en train d'expérimenter mon oeuvre a un très bon effet. De plus, utiliser la noirceur afin de cacher certaines choses qu'on ne veut pas que les visiteurs ne voit.
 
 <img src="../media/photo_moi.jpg" style="width:500px">
 
-## Choses à ne pas retenir
+## Éléments que je ne retiens pas
 
 Avoir des éléments qui ne sont pas réelement nécéssaire à l'oeuvre complète peut paraître forcé, je vais donc essayer de ne pas avoir des éléments qui n'apportenent pas à l'oeuvre principal dans mes oeuvres.
