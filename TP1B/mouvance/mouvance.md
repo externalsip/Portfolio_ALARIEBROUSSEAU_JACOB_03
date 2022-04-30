@@ -1,7 +1,7 @@
 # Mouvances
 
 Jeudi le 31 mars, nous avons assisté à la conférence du nom de *Mouvances, pratiques interactives et propos artistiques*.
-Cette conférence à été donnée par 2 artistes: Guillaume Arsenault et Olivia Mc Gilchrist. Ces deux personnes sont dans des milieux similaires mais en même temps, très différents. 
+Cette conférence à été donnée par 2 artistes: Guillaume Arsenault et Olivia Mc Gilchrist. Ces deux artistes sont tout deux dans le milieu du multimédia, mais sont dans des domaines très différents.
 
 ## Guillaume Arsenault.
 
