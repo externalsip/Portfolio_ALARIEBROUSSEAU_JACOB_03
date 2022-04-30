@@ -6,7 +6,7 @@
 
 Maxime Sabourin, Louis-Phillipe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
-## Année de création
+## Années de création
 
 2021-2022
 
