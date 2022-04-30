@@ -1,3 +1,3 @@
-# *House of Skin*
+# *TP1C*
 
-Ce dossier contient la présentation orale sur l'oeuvre *House of Skin*.
+Ce dossier contient le plan pour la présentation orale sur l'oeuvre *House of Skin*.
