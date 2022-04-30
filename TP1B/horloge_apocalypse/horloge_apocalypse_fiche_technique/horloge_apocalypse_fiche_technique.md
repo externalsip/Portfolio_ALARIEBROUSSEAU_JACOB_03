@@ -59,7 +59,7 @@ L'interactivitée présente dans *l'Horloge de l'Apocalypse* est son point le pl
 
 ## Éléments que je ne retiens pas
 
-Lorsque l'on tournait l'aiguille de l'horloge, ce n'était pas très doux, c'était dur et à chaque fois j'avais peur de briser l'aiguille, dans mes oeuvres je vais essayer d'utiliser des éléments qui parraîssent plus robuste.
+Lorsque l'on tournait l'aiguille de l'horloge, il y avait beaucoup de résistance, mais comme l'aiguille était très mince elle parassaît fragile, ce qui me donnait peur de la briser chaque fois que je la tournais. Dans mes propres créations, je vais essayer d'éviter de donner cette impression de fragilitée.
 
 ## Classement des oeuvres après expérience.
 
