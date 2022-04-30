@@ -1,7 +1,5 @@
 # *House of Skin*
 
-<img src="../media/fiche_technique.jpg" style="width:600px">
-
 ## Artistes
 
 Sabrina Ratté et Roger Teller-Craig
