@@ -24,7 +24,7 @@ Petit studio TIM, collège Montmorency.
 
 ## Éléments utilisés pour la création de l'oeuvre
 
-L'oeuvre est composée de: 1 horloge équipée d'un potentiomètre à 12 coches, 1 téléphone à cadran, 2 micro-ordinateur raspery PI, 3 projecteurs, 1 kinect, 11 bandes son, 11 images vectorielles, un piédestal, 4 speakers, 1 spotlight, 1 ordinateur.
+L'oeuvre est composée de: 1 horloge équipée d'un potentiomètre à 12 coches, 1 téléphone à cadran, 2 micro-ordinateur raspery PI, 3 projecteurs, 1 kinect, 11 bandes son, 11 compositions vectorielles, un piédestal, 4 speakers, 1 spotlight, 1 ordinateur.
 
 <img src="../media/projecteur.jpeg" style="width:400px">
 
